@@ -1,5 +1,3 @@
-# NAR4TSP
-
 <h1 align="center"> Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems </h1>
 
 The PyTorch Implementation of *Arxiv-2308.00560 -- "Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems"*[pdf](https://arxiv.org/abs/2308.00560).
