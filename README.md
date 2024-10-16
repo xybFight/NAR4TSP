@@ -2,6 +2,8 @@
 
 The PyTorch Implementation of *Arxiv-2308.00560 -- "Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems"*[pdf](https://arxiv.org/abs/2308.00560).
 
+This manuscript has been accepted by TNNLS in Oct 2024, and the lastest version will be updated in Arxiv.
+
 <p align="center"><img src="./main.jpg" width=95%></p>
 
 
@@ -20,7 +22,7 @@ python -u val.py
 
 ### Acknowledgments
 
-* We would like to thank the following repositories, which are baselines of our code:
+* We would like to thank the following repository, which is the baseline of our code:
 
   * https://github.com/xbresson/TSP_Transformer
 
