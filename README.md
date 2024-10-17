@@ -2,7 +2,7 @@
 
 The PyTorch Implementation of *Arxiv-2308.00560 -- "Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems"*[pdf](https://arxiv.org/abs/2308.00560).
 
-This manuscript has been accepted by TNNLS in Oct 2024, and the lastest version will be updated in Arxiv.
+This manuscript has been accepted by TNNLS in Oct 2024, and the lastest version has been updated in Arxiv.
 
 <p align="center"><img src="./main.jpg" width=95%></p>
 
