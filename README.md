@@ -30,7 +30,7 @@ python -u val.py
 
 ### Citation
 
-If you find our paper and code useful, please cite our paper:
+If you find our paper and code useful, please cite our paper (arxiv version):
 
 ```tex
 @misc{Xiao2023,
@@ -39,5 +39,18 @@ If you find our paper and code useful, please cite our paper:
       year={2023},
       eprint={2308.00560},
       archivePrefix={arXiv},
+}
+```
+Or the TNNLS version:
+```tex
+@ARTICLE{Xiao2024,
+  author={Yubin Xiao and Di Wang and Boyang Li and Huanhuan Chen and Wei Pang and Xuan Wu and Hao Li and Dong Xu and Yanchun Liang and You Zhou},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Reinforcement Learning-Based Nonautoregressive Solver for Traveling Salesman Problems}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2024.3483231}
 }
 ```
